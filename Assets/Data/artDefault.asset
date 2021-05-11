@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8945d6b9a59b14f498f8cdf959d9cd42, type: 3}
+  m_Name: artDefault
+  m_EditorClassIdentifier: 
+  customCardColour: {r: 0.027450982, g: 0, b: 0.41176474, a: 1}
+  adventureTip: {r: 0.0752492, g: 0.1792453, b: 0.07822051, a: 1}
+  characterTip: {r: 0.3490566, g: 0.30568963, b: 0.16629584, a: 1}
+  entranceTip: {r: 0, g: 0.4205301, b: 0.49056602, a: 1}
+  combatTip: {r: 0.4245283, g: 0, b: 0, a: 1}
+  challengeTip: {r: 0.31132078, g: 0.110137075, b: 0.29138365, a: 1}
+  setbackTip: {r: 0.21698111, g: 0.21698111, b: 0.21698111, a: 1}
+  climaxTip: {r: 0.24759701, g: 0.49056602, b: 0.37860975, a: 1}
+  twistTip: {r: 0, g: 0, b: 0, a: 1}
+  locationSTip: {fileID: 21300000, guid: a816e8abbc8525d4898f741421cb428a, type: 3}
+  goalSTip: {fileID: 21300000, guid: 9ac213e5d104af2469770cbe5c3fa80a, type: 3}
+  villianSTip: {fileID: 21300000, guid: 5ff8f211017298f42b40c660a78f1288, type: 3}
+  enemySTip: {fileID: 21300000, guid: 45386624888702145842ecd6b3d943a6, type: 3}
+  raceSTip: {fileID: 21300000, guid: 7344311721065a443908a1eda8e8dfbd, type: 3}
+  backgroundSTip: {fileID: 21300000, guid: e311bafc5eafefa4291cf64b537e922d, type: 3}
+  classSTip: {fileID: 21300000, guid: 8f7d24cc3ffdab545bc78648e5d13aa6, type: 3}
+  driveSTip: {fileID: 21300000, guid: 17fbbe49b4efb104ab324f9a434b21b0, type: 3}
+  statsSTip: {fileID: 21300000, guid: 74226e53440efd14888f74f1aba4916b, type: 3}
+  entranceSTip: {fileID: 21300000, guid: 6faf784e2e01939418457654e147e7c5, type: 3}
+  combatSTip: {fileID: 21300000, guid: 723e71e3aa4cb314ea9480504e0b354d, type: 3}
+  challengeSTip: {fileID: 21300000, guid: f5ecea55648e7bd4a85219dd553c8837, type: 3}
+  setbackSTip: {fileID: 21300000, guid: 8cb0c30bad436874fad882270ccb6052, type: 3}
+  climaxSTip: {fileID: 21300000, guid: 8ec13f54f3ede5a4d9e8f2827848eda1, type: 3}
+  twistSTip: {fileID: 21300000, guid: b2d1b64ccbce85447aebb6b01b42fa07, type: 3}
+  lockImg: {fileID: 21300000, guid: 2272745f8e8cbd04f8f3af4394f674f5, type: 3}
+  unlockImg: {fileID: 21300000, guid: 3100eb6037bfe084f800a08dcb7dd489, type: 3}

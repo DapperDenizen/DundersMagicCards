@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de6902f04d009f54da124d56a5f45298, type: 3}
+  m_Name: Dragonborn
+  m_EditorClassIdentifier: 
+  cardType: 5
+  titleData: ' Dragonborn'
+  spriteData: {fileID: 21300000, guid: cd4625c54e428054696bf6c303e24c0c, type: 3}
+  inPool: 1
+  Custom: 0
+  customID: 
+  descData: A proud kind with thick draconic blood
+  sublist:
+  - Black
+  - Blue
+  - Brass
+  - Bronze
+  - Copper
+  - Gold
+  - Green
+  - Red
+  - Silver
+  - White
+  suffix: 0
